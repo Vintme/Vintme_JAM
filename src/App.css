@@ -1,0 +1,12 @@
+.swiper-pagination-bullet-active {
+  background-color: #181818;
+  height: 9px;
+  width: 9px;
+  margin: auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
